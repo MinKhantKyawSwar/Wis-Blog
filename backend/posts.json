@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Our first event",
+      "date": "2023-6-10",
+      "image": "https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Education"]
+    },
+    {
+      "id": "2",
+      "title": "Chat GPT get banned",
+      "date": "2023-6-10",
+      "image": "https://s.hdnux.com/photos/01/31/34/04/23445815/3/rawImage.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Tech"]
+    },
+    {
+      "id": "3",
+      "title": "Creating a Responsive Navbar in React: A Beginner's Guide",
+      "date": "2023-6-10",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Website", "Education"]
+    },
+    {
+      "id": "4",
+      "title": "This is the fourth post",
+      "date": "2023-9-10",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Time", "Education"]
+    },
+    {
+      "id": "5",
+      "title": "Going down the 'rabbit hole' of wearable blood-sugar monitors",
+      "date": "2023-9-10",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/cfcb/live/ce025aa0-2a91-11ef-9602-ddb5a5dd7e2a.jpg.webp",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Time", "Education"]
+    },
+    {
+      "id": "6",
+      "title": "Zelensky seeks show of support at giant Ukraine peace summit",
+      "date": "2023-9-10",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Time", "Education"]
+    },
+    {
+      "id": "7",
+      "title": "'A very, very special player' - Yamal, 16, makes Euros history",
+      "date": "2023-9-10",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/9c58/live/fd66f8a0-2b40-11ef-ac98-8d216198b128.jpg.webp",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!",
+      "category": ["Sport", "Youth"]
+    }
+  ]
+}

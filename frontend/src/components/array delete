@@ -1,0 +1,9 @@
+//  let data = post;
+// const newData = [];
+// for (let i = 0; i < 2; i++) {
+//   const randoming = Math.floor(Math.random() * items.length);
+// let val = items[randoming];
+// newData.push(val);
+// data.splice(randoming, randoming);
+//   newData.push(data.filter((data) => data.id == randoming));
+// console.log(data);
